@@ -1,0 +1,17 @@
+{
+  "name": "thursdayphoenix",
+  "version": "1.0.0",
+  "description": "This is a demo of nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Michael Burnes",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
